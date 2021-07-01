@@ -1,3 +1,5 @@
+2021-07-01-git_basics
+
 git hub basics
 
 My first commit
@@ -20,3 +22,5 @@ _You can fix this by running 'git checkout main'
   -' ssh-keygen
   - 'git remote add <URL>' : adds the URL 
   - 'git push origin main': push to main branch to the origin remote
+  - 'git pull origin main': push to main branch to the origin remote
+
