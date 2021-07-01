@@ -1,6 +1,6 @@
-2021-07-01-git_basics
+HEAD
+2021-07-01: git_basics
 
-git hub basics
 
 My first commit
 My second commit 
