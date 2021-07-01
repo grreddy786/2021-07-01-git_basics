@@ -1,5 +1,4 @@
-gir ;;;
-
+git hub basics
 
 My first commit
 My second commit 
@@ -16,3 +15,8 @@ _ 'git checkout <HASH> <FILE>': 'restore <FILE> to version in <HASH>'
 _Use git status to help you find the commands to unstage or restore file>
 _ if you run 'git checkout <HASH> without the <FILE>
 _You can fix this by running 'git checkout main'
+# remotes
+  
+  -' ssh-keygen
+  - 'git remote add <URL>' : adds the URL 
+  - 'git push origin main': push to main branch to the origin remote
